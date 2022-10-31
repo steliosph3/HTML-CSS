@@ -5,12 +5,12 @@ body{
 p{
     font-family: monospace;
     text-align: center;
-    color: lightpink
+    color: lightpink;
 }
 
 h1,h2,h3,h4,h5,h6{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: lightyellow
+    color: lightyellow;
     font-style: italic;
     text-align: right;
 
@@ -19,12 +19,12 @@ h1,h2,h3,h4,h5,h6{
 h1{
     font-family: Impact, Heattenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 150px;
-    color: white
+    color: white;
     font-style: normal;
 }
 
 h2{
-    color: black
+    color: black;
 }
 
 .special {
@@ -66,7 +66,7 @@ a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
     color: white;
-    font-size: 25px
+    font-size: 25px;
     font-weight:bold;
 }
 
