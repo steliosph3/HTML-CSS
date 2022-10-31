@@ -71,7 +71,7 @@ a {
 }
 
 .section-one {
-    border: 1px solid white;
+  
     background-color:darkslateblue;
 }
 
@@ -88,14 +88,14 @@ a {
 }
 
 .cake-item {
-    border: 1px daashed yellow;
+  
     width: 275px;
     height: 275px;
     padding: 4px;
 }
 
 .cake-group {
-    border: 2px solid green;
+
     width: 275px;
 }
 
